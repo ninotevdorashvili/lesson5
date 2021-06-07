@@ -79,7 +79,7 @@
   color: #A6ADB4;
 }
 .time::before {
-  content: url("/image/time.svg");
+  content: url(lesson5/image/time.svg);
   padding-right: 10px;
   vertical-align: middle;
 }
